@@ -54,4 +54,4 @@ async def on_member_join(member):
 )
         await channel.send(embed=embed)
 
-bot.run("TOKEN")
+bot.run("TOKEN") 
