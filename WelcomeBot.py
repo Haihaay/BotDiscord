@@ -59,4 +59,5 @@ async def on_member_join(member):
 )
         await channel.send(embed=embed)
 
+#Ganti TOKEN dengan token botnya
 bot.run("TOKEN") 
