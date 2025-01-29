@@ -22,7 +22,7 @@ async def on_ready():
 async def on_member_join(member):
     # Saluran tempat pesan dikirim
     channel = discord.utils.get(member.guild.text_channels, name="👋┃welcome")
-    # ID Role
+    # ID Role buat new member
     role_id = 1085860594323832842
 
     # Kasih role ke member yg baru join 
