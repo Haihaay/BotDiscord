@@ -5,7 +5,7 @@ from discord.ext import commands
 intents = discord.Intents.default()
 intents.members = True
 
-# Daftar thumbnails randim wkwk
+# Daftar thumbnails random wkwk
 thumbnails = [
     "https://cdn.discordapp.com/attachments/1086169289242976268/1308717915025182720/image0.gif?ex=67483089&is=6746df09&hm=d8c9969ea56767000c8322672353a75c0e4dbd24cee21f0dbb2a2f489de283cb&",  
     "https://cdn.discordapp.com/attachments/1085865647566757958/1285865216009310228/1256550810041454684.gif?ex=67481bcd&is=6746ca4d&hm=54bc7da80cc15d0c8bf96d6d92c24af58034aa9b1727c8817c6c0c12b255c91d&",  
