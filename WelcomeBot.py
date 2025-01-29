@@ -1,3 +1,8 @@
+#Bot memberikan pesan selamat datang ke member yg baru join
+#Thumbnail akan diberikan secara random 
+#Bot memberikan role ke new member
+
+
 import discord
 import random
 from discord.ext import commands
