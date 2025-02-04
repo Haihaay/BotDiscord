@@ -10,13 +10,13 @@ from discord.ext import commands
 intents = discord.Intents.default()
 intents.members = True
 
-# Daftar thumbnails random
+# Daftar thumbnails random, masukkan link nya
 thumbnails = [
-    "https://cdn.discordapp.com/attachments/1086169289242976268/1308717915025182720/image0.gif?ex=67483089&is=6746df09&hm=d8c9969ea56767000c8322672353a75c0e4dbd24cee21f0dbb2a2f489de283cb&",  
-    "https://cdn.discordapp.com/attachments/1085865647566757958/1285865216009310228/1256550810041454684.gif?ex=67481bcd&is=6746ca4d&hm=54bc7da80cc15d0c8bf96d6d92c24af58034aa9b1727c8817c6c0c12b255c91d&",  
-    "https://cdn.discordapp.com/attachments/1085865647566757958/1266583207411712000/animeahhhhh.gif?ex=6747d588&is=67468408&hm=d480965c033166bea9bcc0191f1286cd2fc423e1c8c3985ab8d6b06e56b6f4ce&",  
-    "https://cdn.discordapp.com/attachments/1085865647566757958/1311282851668561940/IMG_2860.gif?ex=67484ad2&is=6746f952&hm=df94bb3a0c76f12236591e89417293f8b2fb0410ece967504c4c44131d99ca80&",
-    "https://cdn.discordapp.com/attachments/1085865647566757958/1311282852087730237/image0-1_2.gif?ex=67484ad2&is=6746f952&hm=869533ca0fc99e090f2ecb01f9c07fa6eab852a1a9aca694ad7e54e8f726f6ed&"
+    "https://thumbnail1",  
+    "https://thumbnail2",  
+    "https://thumbnail3",  
+    "https://thumbnail4",
+    "https://thumbnail5"
 ]
 
 @bot.event
