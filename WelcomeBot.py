@@ -45,10 +45,10 @@ async def on_member_join(member):
 
     if channel:
         embed = discord.Embed(
-            title=f"Hello cutie {member.mention}! <a:z_SilvervaleLoves:1289848710745817159> "
+            title=f"Hello cutie {member.mention}!"
             "Welcome to xxx server^^",
             description=(
-                "<a:z_heart:1289805228450775082> Setelah ini jangan lupa untuk membaca peraturan server di <#1086228959047454802>dan mengambil role di <#1085861625095016548>"
+                "deskripsi"
             ),
             color=discord.Color.pink(),
         )
